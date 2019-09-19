@@ -8,5 +8,5 @@
   Personal Portfolio website made on Gatsby's
 </h1>
 
-Personal portfolio website made on Gatsby & MarkDown data. 
+Personal portfolio website made on Gatsby, GraphQl & MarkDown data. 
 
