@@ -61,7 +61,7 @@ const Sidebar = ({ pName, pTitle }) => (
           </aside>
           <aside className="widget clearfix widget_text">
              <div className="textwidget">
-                <center><a className="btn btn-lg btn-default" target="_blank" rel="noopener noreferrer"  href="https://themeforest.net/item/certy-wordpress-resume-cv-theme/19915727?ref=PX-lab">DOWNLOAD CV</a></center>
+                <center><a className="btn btn-lg btn-default" target="_blank" rel="noopener noreferrer"  href="">DOWNLOAD CV</a></center>
              </div>
           </aside>
        </div>
